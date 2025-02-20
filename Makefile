@@ -1,3 +1,3 @@
 .PHONY: format
 format:
-	black simple.py
+	black simple.py simple2.py
